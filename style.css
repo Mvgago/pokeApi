@@ -1,0 +1,11 @@
+.mainContainer {
+    padding: 0.2rem;
+    margin: 1rem;
+}
+
+.poke_card {
+  box-sizing: content-box;
+  width: 100%;
+  border: solid #5B6DCD 8px;
+  padding: 10px;
+}
